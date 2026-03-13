@@ -6,7 +6,7 @@ async function start() {
     const endDate = new Date('2023-12-31T23:59:59');
     
     // Replace this with a friend's email or a second email of your own
-    const coAuthor = "Co-authored-by: Collaborator <helper@example.com>";
+    const coAuthor = "Co-authored-by: Collaborator <ayo4real26@gmail.com>";
 
     console.log("🚀 Syncing with Co-author for Pair Extraordinaire badge...");
 
